@@ -1,2 +1,2 @@
 # C-programs
-C programs on various concepts
+C programs on various C and DS concepts.
